@@ -1,5 +1,5 @@
 # Power-BI_Dashboard
-Project Overview
+Project Overview:
 This project provides a deep-dive analysis of the Spotify Top 50 Global Songs dataset, encompassing over 27,800 rows of streaming data. The goal is to identify the underlying patterns that drive song popularity, analyze seasonal release trends, and visualize the impact of content characteristics (like "Explicitness" and "Album Type") on global rankings.
 
 Key Metrics Tracked:
